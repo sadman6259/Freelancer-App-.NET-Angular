@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Freelancers_API.props" />
+</Project>
