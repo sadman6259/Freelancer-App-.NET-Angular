@@ -61,6 +61,7 @@ Register a new user, delete a user, update a user details.
 <h6>DB Table Schema</h6>
 <img src= "https://github.com/user-attachments/assets/07a5dfd3-a09e-4a61-afe7-5bd85e674fdc"></img>
 
-
+<h6>Unit Test Case Results</h6>
+<img src= "https://github.com/user-attachments/assets/57571fa5-14fa-4710-b62a-69ad783b4e37"></img>
 
 
